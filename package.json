@@ -66,6 +66,7 @@
     "null-loader": "^0.1.1",
     "react": "^15.5.10",
     "react-dom": "^15.5.10",
+    "react-syntax-highlighter": "^5.8.0",
     "react-test-renderer": "^15.6.2",
     "sass-loader": "^6.0.6",
     "sinon": "^4.1.2",
